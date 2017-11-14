@@ -8,3 +8,13 @@ C:\source\mine\inspireC\bin\Debug\netcoreapp2.0\inspireC.dll
 C:\source\mine\inspireC\bin\Debug\netcoreapp2.0\inspireC.pdb
 C:\source\mine\inspireC\obj\Debug\netcoreapp2.0\inspireC.dll
 C:\source\mine\inspireC\obj\Debug\netcoreapp2.0\inspireC.pdb
+C:\source\mine\inspire\bin\Debug\netcoreapp2.0\inspireC.deps.json
+C:\source\mine\inspire\bin\Debug\netcoreapp2.0\inspireC.runtimeconfig.json
+C:\source\mine\inspire\bin\Debug\netcoreapp2.0\inspireC.runtimeconfig.dev.json
+C:\source\mine\inspire\bin\Debug\netcoreapp2.0\inspireC.dll
+C:\source\mine\inspire\bin\Debug\netcoreapp2.0\inspireC.pdb
+C:\source\mine\inspire\obj\Debug\netcoreapp2.0\inspireC.csproj.CoreCompileInputs.cache
+C:\source\mine\inspire\obj\Debug\netcoreapp2.0\inspireC.AssemblyInfoInputs.cache
+C:\source\mine\inspire\obj\Debug\netcoreapp2.0\inspireC.AssemblyInfo.cs
+C:\source\mine\inspire\obj\Debug\netcoreapp2.0\inspireC.dll
+C:\source\mine\inspire\obj\Debug\netcoreapp2.0\inspireC.pdb

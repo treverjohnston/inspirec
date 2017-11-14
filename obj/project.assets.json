@@ -12568,22 +12568,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\mine\\inspireC\\inspireC.csproj",
+      "projectUniqueName": "C:\\source\\mine\\inspire\\inspireC.csproj",
       "projectName": "inspireC",
-      "projectPath": "C:\\source\\mine\\inspireC\\inspireC.csproj",
+      "projectPath": "C:\\source\\mine\\inspire\\inspireC.csproj",
       "packagesPath": "C:\\Users\\Trever\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\mine\\inspireC\\obj\\",
+      "outputPath": "C:\\source\\mine\\inspire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Trever\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Trever\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12602,7 +12604,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "JWT": {
