@@ -12,7 +12,8 @@ namespace inspire
         public DbSet<Todo> Todos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Filename=./Inspire.db");
+            optionsBuilder.UseSqlServer("Server=trever.database.windows.net;Database=Inspire;User ID=treverj1029;Password=100%Applejuice;Trusted_Connection=False;Encrypt=True");
+            
         }
         // public InspireContext(DbContextOptions<InspireContext> options) : base(options)
         // {
