@@ -13,7 +13,6 @@ namespace inspire
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=trever.database.windows.net;Database=Inspire;User ID=treverj1029;Password=100%Applejuice;Trusted_Connection=False;Encrypt=True");
-            
         }
         // public InspireContext(DbContextOptions<InspireContext> options) : base(options)
         // {
